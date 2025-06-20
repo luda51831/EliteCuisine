@@ -1,0 +1,35 @@
+
+  .aboutus {
+    padding: 60px 20px;
+    max-width: 1500px;
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.05);
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.aboutus1 {
+    text-align: center;
+    font-size: 28px;
+    font-weight: 600;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    color: #c15a00;
+}
+.aboutus2{
+    text-align: center;
+    font-size: 36px;
+    font-weight: 600;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    color: #000000;
+}
+
+.aboutus br {
+    margin-bottom: 10px;
+}
+  
